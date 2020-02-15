@@ -12,7 +12,7 @@ var scores, roundScore, activePlayer, gamePlaying;
 
 init();
 
-// Initializes game
+// Initialize game
 function init() {
 	score = [0, 0];
 	roundScore = 0;
